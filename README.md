@@ -14,7 +14,7 @@ CV.pdf            - CV au format PDF.
 ###Comment ouvrir le CV
 ================================================================================
 - Il suffit tout simplement de se rendre sur le lien suivant: https://redoren28.github.io/CV/
-- 
+
 ####Crédits
 ================================================================================
 © Chevrier Clément. Tous droits réservés.
