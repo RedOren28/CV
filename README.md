@@ -1,9 +1,7 @@
 # CV
-================================================================================
 Bienvenue sur mon CV !
 
 ## Structure
-================================================================================
 - css\              - Feuilles de style CSS.
 - images\           - Images utilisés.
 - scripts\          - JavaScript utilisé.
@@ -12,9 +10,7 @@ Bienvenue sur mon CV !
 - CV.pdf            - CV au format PDF.
 
 ### Comment ouvrir le CV
-================================================================================
 - Il suffit tout simplement de se rendre sur le lien suivant: https://redoren28.github.io/CV/
 
 #### Crédits
-================================================================================
 © Chevrier Clément. Tous droits réservés.
